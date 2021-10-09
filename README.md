@@ -1,6 +1,6 @@
 # ANN-implementation-mydemo
 
-## Important commands ----------------------------------------------------------------
+## Important commands ---------
 
 ### creating envs -
 
